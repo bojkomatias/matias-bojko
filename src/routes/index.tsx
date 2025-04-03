@@ -1,14 +1,7 @@
-import { Link, createFileRoute } from '@tanstack/react-router'
+import { createFileRoute } from '@tanstack/react-router'
 import { XIcon } from 'lucide-react'
 import { motion } from 'motion/react'
-import {
-  BLOG_POSTS,
-  EMAIL,
-  PROJECTS,
-  SOCIAL_LINKS,
-  WORK_EXPERIENCE,
-} from '@/lib/data'
-import { AnimatedBackground } from '@/components/ui/animated-background'
+import { EMAIL, PROJECTS, SOCIAL_LINKS, WORK_EXPERIENCE } from '@/lib/data'
 import { Magnetic } from '@/components/ui/magnetic'
 import {
   MorphingDialog,

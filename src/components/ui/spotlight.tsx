@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useRef, useState } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import { motion, useSpring, useTransform } from 'motion/react'
 import type { SpringOptions } from 'motion/react'
 import { cn } from '@/lib/utils'
