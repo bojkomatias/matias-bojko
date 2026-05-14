@@ -14,5 +14,9 @@ msgstr ""
 "Plural-Forms: \n"
 
 #: src/routes/__root.tsx:33
-msgid "<0>Software Engineer</0>"
-msgstr "<0>Software Engineer</0>"
+msgid "<0>Senior Software Engineer - Passionate Builder</0>"
+msgstr "<0>Senior Software Engineer - Passionate Builder</0>"
+
+#: src/routes/__root.tsx:33
+#~ msgid "<0>Software Engineer</0>"
+#~ msgstr "<0>Software Engineer</0>"

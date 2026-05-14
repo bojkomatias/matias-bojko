@@ -14,6 +14,7 @@ Senior Software Engineer and Systems Architect with 6+ years building enterprise
 ## Experience
 
 ### Senior Software Engineer — Architecture & Product
+
 **Coverwallet, an Aon Company** · Mar 2023 – Present
 
 - Lead architectural and product-level decisions on core insurance software serving global enterprise clients; own system design from requirements through delivery.
@@ -22,6 +23,7 @@ Senior Software Engineer and Systems Architect with 6+ years building enterprise
 - Implemented OpenSpec across the engineering workflow — AI-assisted specification, documentation, and test generation that improves code reliability and reduces ambiguity between design and implementation.
 
 ### Software Engineer — Architecture & Blockchain Data
+
 **turtle.xyz (Contract)** · Sep 2025 – Feb 2026
 
 - Led frontend architecture across 3 concurrent product interfaces for a DeFi liquidity distribution protocol; established patterns, component structure, and technical standards.
@@ -29,6 +31,7 @@ Senior Software Engineer and Systems Architect with 6+ years building enterprise
 - Contributed to Go backend services to expose aggregated blockchain data endpoints, working alongside the core protocol team in a US-timezone remote environment.
 
 ### Software Architect & Co-founder
+
 **pqlub** · Jan 2021 – Present
 
 - Co-founded and led architecture of a software product studio delivering full-stack applications for university and global enterprise clients.
@@ -36,6 +39,7 @@ Senior Software Engineer and Systems Architect with 6+ years building enterprise
 - Operated across the full stack: requirements, system design, implementation, and delivery.
 
 ### Software Engineer
+
 **ACES** · Mar 2019 – Feb 2021
 
 - Built web applications and RESTful APIs for a national publishing house using Vue/C#/.NET and Microsoft SQL Server.
@@ -46,14 +50,14 @@ Senior Software Engineer and Systems Architect with 6+ years building enterprise
 
 ## Technical Skills
 
-| | |
-|---|---|
-| **Languages** | TypeScript, JavaScript, C#, Go, SQL, Python (scripting) |
-| **Frameworks** | Next.js, React, Node.js, .NET, Vue.js |
-| **Infrastructure** | Docker, nginx, CI/CD pipelines, cloud infrastructure |
-| **Databases** | PostgreSQL, Microsoft SQL Server, MongoDB, SQLite |
-| **Architecture** | Distributed systems, REST API design, microservices, system integration, event-driven patterns, cloud-native design |
-| **Practices** | Technical leadership, system design, code review, cross-functional collaboration |
+|                    |                                                                                                                     |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| **Languages**      | TypeScript, JavaScript, C#, Go, SQL, Python (scripting)                                                             |
+| **Frameworks**     | Next.js, React, Node.js, .NET, Vue.js                                                                               |
+| **Infrastructure** | Docker, nginx, CI/CD pipelines, cloud infrastructure                                                                |
+| **Databases**      | PostgreSQL, Microsoft SQL Server, MongoDB, SQLite                                                                   |
+| **Architecture**   | Distributed systems, REST API design, microservices, system integration, event-driven patterns, cloud-native design |
+| **Practices**      | Technical leadership, system design, code review, cross-functional collaboration                                    |
 
 ---
 
