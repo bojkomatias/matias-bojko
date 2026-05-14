@@ -13,6 +13,15 @@ type WorkExperience = {
   end: string
   link: string
   id: string
+  contract?: boolean
+}
+
+type Education = {
+  institution: string
+  degree: string
+  start: string
+  end: string
+  id: string
 }
 
 type BlogPost = {
@@ -44,32 +53,74 @@ export const PROJECTS: Array<Project> = [
     video: '/uap-vid.mov',
     id: 'project2',
   },
+  {
+    name: 'Turtle',
+    description:
+      'DeFi liquidity distribution protocol with data aggregation pipelines across multiple blockchain networks.',
+    link: 'https://app.turtle.xyz',
+    video: '/turtle.mov',
+    id: 'project3',
+  },
+  {
+    name: 'Coverwallet',
+    description:
+      'Insurance software for selling and managing business policies, serving global enterprise clients at scale.',
+    link: 'https://www.aonaffinity.com/traffic-director/',
+    video: '/coverwallet.mov',
+    id: 'project4',
+  },
 ]
 
 export const WORK_EXPERIENCE: Array<WorkExperience> = [
   {
-    company: 'Coverwallet an Aon Company',
-    title: 'Senior Software Engineer',
-    start: '2024',
+    company: 'Coverwallet, an Aon Company',
+    title: 'Senior Software Engineer — Architecture & Product',
+    start: 'Mar 2023',
     end: 'Present',
-    link: '#',
+    link: 'https://www.aonaffinity.com/traffic-director/',
     id: 'work1',
   },
   {
-    company: 'Freelance',
-    title: 'Software Engineer',
-    start: '2021',
-    end: 'Present',
-    link: '#',
+    company: 'turtle.xyz',
+    title: 'Software Engineer — Architecture & Blockchain Data',
+    start: 'Sep 2025',
+    end: 'Feb 2026',
+    link: 'https://turtle.xyz',
     id: 'work2',
+    contract: true,
   },
   {
-    company: 'Asociación Casa Editora Sudamericana',
-    title: 'Front-end Developer',
-    start: '2019',
-    end: '2022',
-    link: '#',
+    company: 'pqlub',
+    title: 'Software Architect & Co-founder',
+    start: 'Jan 2021',
+    end: 'Present',
+    link: 'https://www.pqlub.com/',
     id: 'work3',
+  },
+  {
+    company: 'ACES',
+    title: 'Software Engineer',
+    start: 'Mar 2019',
+    end: 'Feb 2021',
+    link: 'https://editorialaces.com/home',
+    id: 'work4',
+  },
+]
+
+export const EDUCATION: Array<Education> = [
+  {
+    institution: 'Universidad del Plata',
+    degree: 'Systems Engineering in Information Technology',
+    start: '2017',
+    end: '2021',
+    id: 'edu1',
+  },
+  {
+    institution: 'Universidad Nacional de Córdoba',
+    degree: 'Aeronautical Engineering',
+    start: '2014',
+    end: '2016',
+    id: 'edu2',
   },
 ]
 
